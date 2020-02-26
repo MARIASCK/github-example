@@ -1,2 +1,3 @@
 # github-example
 This repository is a demonstration of how to create ...... 
+Next step : how to clone
